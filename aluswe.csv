@@ -1,1 +1,51 @@
-Project/Concept ID,URL,Token,Count,Name,Action to Take,Resource Type,Man/Help Command,Particular Directions,
+Project/Concept ID,URL,Token,Count,Name,Action to Take,Resource Type,Man/Help Command,Particular Directions,,,
+Project: Port Translation,https://www.uploadvr.com/porting-oculus-quest-vr-optimize/,h-HuwfG2bk0AAnrels9Scw,0,Porting to Oculus Quest,read,url,,,Show,Edit,Destroy
+Project: Clustering,https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1?gi=331280946141,uqqd6PyG1wR0h6qk6qpAJw,0,Understanding K-means Clustering in Machine Learning,read,url,,,Show,Edit,Destroy
+Project: Dimensionality Reduction,https://towardsdatascience.com/svd-8c2f72e264f?gi=d82cdc187550,DBodU3C1HIepSdMJmyjZmw,0,Understanding SVD (Singular Value Decomposition),read,url,,,Show,Edit,Destroy
+Project: Dimensionality Reduction,https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79?gi=679335dc2fdf,kOXPj-kbIiWkIjWMQ4Z1vQ,0,Dimensionality Reduction For Dummies — Part 1: Intuition,read,url,,,Show,Edit,Destroy
+Project: Convolutions and Pooling,https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53?gi=221244310b1c,afbyXStazadzKNWyH34pMQ,0,A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way,read,url,,,Show,Edit,Destroy
+Project: Convolutions and Pooling,https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53?gi=b27f29a99f77,y7qP9PWuMyY5T7I9MFj3KQ,0,A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way,read,url,,,Show,Edit,Destroy
+Project: Dimensionality Reduction,https://towardsdatascience.com/svd-8c2f72e264f?gi=156d8994a072,UKmRMfktHOAan-p0fYfC8g,0,Understanding SVD (Singular Value Decomposition),read,url,,,Show,Edit,Destroy
+Project: Dimensionality Reduction,https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79?gi=c24d1189e8e2,epbMtSFYffWEbX_F7rrDZA,0,Dimensionality Reduction For Dummies — Part 1: Intuition,read,url,,,Show,Edit,Destroy
+Project: Clustering,https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1?gi=c31feb620445,gWYVR9P6BmjrBWBYnftG1A,0,Understanding K-means Clustering in Machine Learning,read,url,,,Show,Edit,Destroy
+Project: Unity - AR Slingshot Game,https://docs.unity3d.com/Manual/UnderstandingPerformance.html,URU2nE5un_xqwWkLKQ1GFg,0,Unity Manual: Understanding optimization in Unity,read,url,,,Show,Edit,Destroy
+Project: Convolutions and Pooling,https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53?gi=35928a77b007,DKcv1HvTKzZTEKPlDPDkFQ,0,A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way,read,url,,,Show,Edit,Destroy
+Project: Dimensionality Reduction,https://towardsdatascience.com/svd-8c2f72e264f?gi=d7643e599665,xx7NOyY0SEOnNnF30v3z7w,0,Understanding SVD (Singular Value Decomposition),read,url,,,Show,Edit,Destroy
+Project: Dimensionality Reduction,https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79?gi=7becbb7e0a9c,LaoVVFZ8mVsej-lH9vSOuQ,1,Dimensionality Reduction For Dummies — Part 1: Intuition,read,url,,,Show,Edit,Destroy
+Project: Dimensionality Reduction,https://towardsdatascience.com/svd-8c2f72e264f?gi=9595a837b147,pq1ssP_oyc8loJI4hrf2hw,0,Understanding SVD (Singular Value Decomposition),read,url,,,Show,Edit,Destroy
+Project: Dimensionality Reduction,https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79?gi=f632408bcb72,JUb-yjsbskmnxNyrhIGJrw,0,Dimensionality Reduction For Dummies — Part 1: Intuition,read,url,,,Show,Edit,Destroy
+Project: Convolutions and Pooling,https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53?gi=a735c7cd2d8c,kYdwCLGuEl4lMfqoXpDSKA,0,A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way,read,url,,,Show,Edit,Destroy
+Project: Unity - VR Room,https://docs.unity3d.com/Manual/UnderstandingPerformance.html,r8gHjquVCnG24NetVg9GbQ,0,Unity Manual: Understanding optimization in Unity,read,url,,,Show,Edit,Destroy
+Project: Unity - ShaderGraph,https://www.patreon.com/posts/intro-to-lwrp-24601204,hNSY2MSRXZ7P5Cq3Mv01qg,0,this tutorial,read,url,,,Show,Edit,Destroy
+Project: Redis basic,https://redis.io/docs/latest/commands/,KsMBE60UQRWErdK1mQ3ozg,0,Redis commands,read,url,,,Show,Edit,Destroy
+-,https://en.wikipedia.org/wiki/Raw_data,FeEaOIXwqEIVwsYYX49Wow,0,raw,read,url,,,Show,Edit,Destroy
+-,"https://en.wikipedia.org/wiki/Volume-weighted_average_price#:~:text=In%20finance%2C%20volume%2Dweighted%20average,traded%20over%20the%20trading%20horizon.",Ro49gU6zSAaIB6AEY6awnw,0,volume-weighted average price,read,url,,,Show,Edit,Destroy
+-,https://drive.google.com/file/d/15A-rLSrfZ0td7muSrYHy0WX9ZqrMweES/view?usp=sharing,PrkJPTV70ZyvF-g23_gdCw,0,bitstamp,read,url,,,Show,Edit,Destroy
+-,https://drive.google.com/file/d/16MgiuBfQKzXPoWFWi2w-LKJuZ7LgivpE/view?usp=sharing,gRrQNdoEbtyDkAmoHtrFYg,0,coinbase,read,url,,,Show,Edit,Destroy
+-,https://www.google.com/search?q=bitcoin+price,Jl5q5gvXUzyfBWHzyPbthw,0,price,read,url,,,Show,Edit,Destroy
+-,https://help.x.com/en/using-x/how-to-embed-a-post,3TLwoDDdtGPwoZFC8EcZ4w,0,embedding single tweets,read,url,,,Show,Edit,Destroy
+Project: Attention,https://medium.datadriveninvestor.com/attention-in-rnns-321fbcd64f05?gi=e1a9aba658e5,Cmi1lmAdUxe6NMDIYp2R8g,0,Attention in RNN,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-141e32e69591?gi=0731d28553a5,wJk25KRSFO_fVJdR6Qy3_Q,0,How Transformers Work,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452?gi=a1c65294e538,HdqR6e0iZcQM4MJx_TFQPg,0,Transformers,read,url,,,Show,Edit,Destroy
+Project: Attention,https://medium.datadriveninvestor.com/attention-in-rnns-321fbcd64f05?gi=8b0b0a18c156,_T78z7yF0JRDHReUVmEXtw,0,Attention in RNN,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-141e32e69591?gi=586e2b8ec24d,Z7Iz-Vj3cYrrFvtlp6NZKQ,0,How Transformers Work,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452?gi=cb641b6cc575,o048y_UR7VDlwSu7_cCuPA,0,Transformers,read,url,,,Show,Edit,Destroy
+Project: Attention,https://medium.datadriveninvestor.com/attention-in-rnns-321fbcd64f05?gi=33a66a675e72,Q5JonuBm9dZ8kIcfkPH8rA,0,Attention in RNN,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-141e32e69591?gi=7275af085c87,dTVJ7koxi4Nwi5_C3WSVNg,0,How Transformers Work,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452?gi=7c87921dde71,U3UscE3nFFlvdb-GQldoOQ,0,Transformers,read,url,,,Show,Edit,Destroy
+Project: Attention,https://medium.datadriveninvestor.com/attention-in-rnns-321fbcd64f05?gi=b2285f8ac47f,dOlo9N-uCaXBHCgR14BR-g,0,Attention in RNN,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-141e32e69591?gi=f6987b8d2966,IVb15AfKIGuqtEo1A7S8kw,0,How Transformers Work,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452?gi=8b94215a7df5,LOMqN5dC_A8XVQnIk_WtjA,0,Transformers,read,url,,,Show,Edit,Destroy
+Project: Attention,https://medium.datadriveninvestor.com/attention-in-rnns-321fbcd64f05?gi=4751a60a7cda,3AAuTjipb8l0lgRrRcX8Zw,0,Attention in RNN,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-141e32e69591?gi=aed2a74efe11,Y3KC9NvF8Ie_hjzptrLlXg,0,How Transformers Work,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452?gi=3bc7649a17bf,rojNZMs8GVT8iiOXJWCNLA,0,Transformers,read,url,,,Show,Edit,Destroy
+Project: Attention,https://medium.datadriveninvestor.com/attention-in-rnns-321fbcd64f05?gi=fa5ca1a057b3,JZY-A_tzvCOgu3lOwC0wNw,0,Attention in RNN,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-141e32e69591?gi=86dec0e5c655,3wiuYv4KGUpLDWeKBq1IgQ,0,How Transformers Work,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452?gi=6a6d8391623f,oeDtabt8jIfDNzSWuIxhQQ,0,Transformers,read,url,,,Show,Edit,Destroy
+Project: Attention,https://medium.datadriveninvestor.com/attention-in-rnns-321fbcd64f05?gi=0aec3b50e38a,fZF7Bj3QeyKS-3EdaxvpJw,0,Attention in RNN,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-141e32e69591?gi=5056fbee1a76,RmHbqdzYQaeSqxSvPHqc8A,0,How Transformers Work,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452?gi=0deeb9a11e66,m_36jII9Xccd74rExn7e0g,0,Transformers,read,url,,,Show,Edit,Destroy
+Project: Attention,https://medium.datadriveninvestor.com/attention-in-rnns-321fbcd64f05?gi=fee6879d9e34,pGK1z16APftdiABiuyGluQ,0,Attention in RNN,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-141e32e69591?gi=3a6f63963dda,a4Z0vSJFYhkbJRIoIydZFw,0,How Transformers Work,read,url,,,Show,Edit,Destroy
+Project: Attention,https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452?gi=1e6ce358f52b,1JH21VtesvpWSgG34KMfdA,0,Transformers,read,url,,,Show,Edit,Destroy
+Project: Probability,https://towardsdatascience.com/probability-fundamentals-of-machine-learning-part-1-a156b4703e69?gi=0562add78be2,VH1LvmTyS8o9koEbEjiowQ,1,Probability Theory,read,url,,,Show,Edit,Destroy

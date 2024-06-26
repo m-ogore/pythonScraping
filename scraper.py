@@ -4,41 +4,56 @@ from bs4 import BeautifulSoup
 import pandas as pd
 # from selenium.webdriver.common.keys import Keys
 
-PASSWORD = open('creds.txt', 'r').read()
-URL = 'https://intranet.aluswe.com/resource_links'
-brave_exe = '/usr/bin/brave-browser'
+def scraper():
 
-my_options = webdriver.ChromeOptions()
-my_options.binary_location = brave_exe
+    PASSWORD = open('creds.txt', 'r').read()
 
-my_driver = webdriver.Chrome(options=my_options)
-my_driver.get(URL)
+    URL = 'https://intranet.aluswe.com/resource_links'
 
-email_field = my_driver.find_element(By.ID, 'user_email')
-password_field = my_driver.find_element(By.ID, 'user_password')
-login_btn = my_driver.find_element(By.NAME, 'commit')
+    brave_exe = '/usr/bin/brave-browser'
 
-email_field.send_keys('wdebela@alueducation.com')
-password_field.send_keys(PASSWORD)
-login_btn.click()
+    my_options = webdriver.ChromeOptions()
+    my_options.binary_location = brave_exe
 
-page_source = my_driver.page_source
-my_driver.close()
+    my_driver = webdriver.Chrome(options=my_options)
+    my_driver.get(URL)
 
-my_soup = BeautifulSoup(page_source, 'html.parser')
+    email_field = my_driver.find_element(By.ID, 'user_email')
+    password_field = my_driver.find_element(By.ID, 'user_password')
+    login_btn = my_driver.find_element(By.NAME, 'commit')
 
-my_table = my_soup.find('table', {'class': 'table table-striped sortable'})
+    email_field.send_keys('wdebela@alueducation.com')
+    password_field.send_keys(PASSWORD)
+    login_btn.click()
 
-my_headers = [header.text for header in my_table.find('tr').find_all('th')]
+    page_source = my_driver.page_source
+    my_driver.close()
 
-my_data = []
-for row in my_table.find('tbody').find_all('tr'):
-    cells = row.find_all('td')
-    print("ROW:", [cell.text.strip() for cell in cells])
-    if len(cells) == len(my_headers):
-        my_data.append([cell.text.strip() for cell in cells])
+    my_soup = BeautifulSoup(page_source, 'html.parser')
 
-print("Data:", my_data)
+    my_table = my_soup.find('table', {'class': 'table table-striped sortable'})
 
-# my_df = pd.DataFrame(my_data, columns=my_headers if my_headers else None)
-# my_df.to_csv('aluswe.csv', index=False)
+    my_headers = [header.text for header in my_table.find('tr').find_all('th')]
+
+    my_headers.extend(['',''])
+
+    my_df = pd.DataFrame(columns=my_headers if my_headers else None)
+
+    my_data = []
+    
+    for row in my_table.find('tbody').find_all('tr'):
+        cells = row.find_all('td')
+
+        ROW = [cell.text.strip() for cell in cells]
+
+        my_data.append(ROW)
+
+    print("Data:", len(my_data[0]))
+    print(my_data[0])
+    print("headers:", len(my_headers))
+
+    my_df = pd.DataFrame(my_data, columns=my_headers if my_headers else None)
+    my_df.to_csv('aluswe.csv', index=False)
+
+
+    return my_df
